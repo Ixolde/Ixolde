@@ -5,9 +5,10 @@
 </p>
 
 My name is Ixolde or Ixol, I'm a software engineer and cybersecurity student.  
-I'm currently in college full-time while working part-time. I'm actively developing   
-an original horror sci-fi RPG called **Projection**. I will reveal more information about the  
-game when the demo is released.
+I'm currently in college full-time while working part-time. 
+
+I'm actively developing an original horror sci-fi RPG called **Projection**.  
+I will reveal more information about the game when the demo is released.
 
 
 **Other Projects:**
