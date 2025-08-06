@@ -7,9 +7,13 @@
 My name is Ixolde or Ixol, I'm a software engineer and cybersecurity student.  
 I'm currently in college full-time while working part-time. 
 
-I'm actively developing an original horror sci-fi RPG called **Projection**.  
+I'm developing an original horror sci-fi RPG called **Projection**.  
 I will reveal more information about the game when the demo is released.
 
+
+**Active Projects**
+- Projection
+- Revamp SF2000 Webtools
 
 **Other Projects:**
 - Mods for *Harvest Moon: Back to Nature* (PSP)
