@@ -14,10 +14,10 @@ I will reveal more information about the game when the demo is released.
 **Active Projects:**
 - Projection
 - My website
-- SF2000 Webtools
+- SF2000 webtools
 
 **Other Projects:**  
-I have various mods planned for *Harvest Moon: Back to Nature* (PSP).
+I have various mods planned for *Harvest Moon: Back to Nature* (PSP).  
 Art commissions are currently closed.
 
 <img src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif" alt="Madoka Magica gif" width="80" align="left" />
