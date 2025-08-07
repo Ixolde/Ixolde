@@ -5,20 +5,22 @@
 </p>
 
 My name is Ixolde or Ixol, I'm a software engineer and cybersecurity student.  
-I'm currently in college full-time while working part-time. 
+I'm currently in college full-time while working part-time. I'm able to respond  
+to any messages given at least a few days.
 
 I'm developing an original horror sci-fi RPG called **Projection**.  
 I will reveal more information about the game when the demo is released.
 
-
-**Active Projects**
+**Active Projects:**
 - Projection
-- Revamp SF2000 Webtools
+- My website
+- SF2000 Webtools
 
-**Other Projects:**
-- Mods for *Harvest Moon: Back to Nature* (PSP)
-- Personal portfolio website
-- (list in progress.)
+**Other Projects:**  
+I have various mods planned for *Harvest Moon: Back to Nature* (PSP).
+
+I also make official art for <a href="https://www.patreon.com/c/BuskinStudios/posts">TBFGG by Carlos Carrillo.</a>  
+Art commissions are currently closed.
 
 <img src="https://i.pinimg.com/originals/9d/dd/0c/9ddd0cf77c1d495dd57e8ca2a37a7906.gif" alt="Madoka Magica gif" width="80" align="left" />
 <br clear="left" />
