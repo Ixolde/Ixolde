@@ -14,7 +14,6 @@ I will reveal more information about the game when the demo is released.
 **Active Projects:**
 - Projection
 - My website
-- SF2000 webtools
 
 **Other Projects:**  
 I have various mods planned for *Harvest Moon: Back to Nature* (PSP).  
